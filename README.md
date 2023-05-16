@@ -14,3 +14,23 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+Now learning...
+| Cybersecurity | Front-End | AI |
+| --- | --- | --- |
+| Security+ | Svelte | LangChain |
+| Wazuh | Skeleton.dev | - |
+
+Current Tech I use:
+| Language | Front-End |
+| --- | --- |
+| TypeScript | NextJs | 
+| Phyton | TailwindCSS |
+| SQL | RadixUI |
+
+Prev Tech I used:
+| Front-End | Back-End | Infra |
+| --- | --- | --- |
+| Angular | MeteorJS | GCP |
+| Ionic | PHP | Firebase |
+| Flutter | C# | LXC/LXD |
+| JQuery | C++ | Ansible |
