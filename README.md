@@ -14,6 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+Google Cloud A.C.E. and Google Cybersecurity cert holder.
+See more certs at [LinkedIn](https://www.linkedin.com/in/alfaphi/)
+
 Now learning...
 | Cybersecurity | Front-End | AI |
 | --- | --- | --- |
